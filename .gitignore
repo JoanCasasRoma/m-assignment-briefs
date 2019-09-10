@@ -232,6 +232,8 @@ TSWLatexianTemp*
 ./auto/*
 *.el
 
+.DS_STORE
+
 # expex forward references with \gathertags
 *-tags.tex
 
